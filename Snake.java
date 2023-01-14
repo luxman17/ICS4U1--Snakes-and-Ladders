@@ -8,7 +8,7 @@ public class Snake implements ActionListener{
 	/** <h1> Display Panel and Game Play of Snakes and Ladders </h1>
  * This is the display and gameplay for game <br>
  * Number of Players: 1-3 added a fourth player as an extra feature
- * @creator Luxman V and Terra X
+ * @creator Luxman V
  * @since 2022-01-06*/
 
 	
